@@ -8,6 +8,9 @@
 
 本リポジトリは、YOLOv8によるカラーボール認識と、ROSノード間通信を介したデータ送受信を中心に構成されています。
 
+実際の動作の様子：https://drive.google.com/file/d/1Gay4DEpmRBYryOsTsC9IKMEMngBvmXOs/view?usp=sharing
+
+
 [主な内容]
 
 ・previous：テスト段階で用いたディレクトリ
